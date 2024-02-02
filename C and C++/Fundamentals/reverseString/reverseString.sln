@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "reverseString", "reverseString\reverseString.vcxproj", "{E7F5652C-2906-4BE5-989C-5838C7ADBE27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Debug|x64.ActiveCfg = Debug|x64
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Debug|x64.Build.0 = Debug|x64
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Debug|x86.ActiveCfg = Debug|Win32
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Debug|x86.Build.0 = Debug|Win32
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Release|x64.ActiveCfg = Release|x64
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Release|x64.Build.0 = Release|x64
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Release|x86.ActiveCfg = Release|Win32
+		{E7F5652C-2906-4BE5-989C-5838C7ADBE27}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {969A4228-CD8C-40B8-9D92-F071A8158223}
+	EndGlobalSection
+EndGlobal
